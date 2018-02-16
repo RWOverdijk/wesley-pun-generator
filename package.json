@@ -1,0 +1,16 @@
+{
+  "name": "wesley-pun-generator",
+  "version": "1.0.1",
+  "description": "A pun generator. Some day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "repository": "git@github.com:RWOverdijk/wesley-pun-generator.git",
+  "author": "RWOverdijk <r.w.overdijk@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "wesley-pun-generator": "./index.js"
+  }
+}
